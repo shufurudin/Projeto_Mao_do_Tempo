@@ -1,1 +1,3 @@
-Access the webpage: https://shufurudin.github.io/Projeto_Mao_do_Tempo/
+## Very welcome to my project!
+
+This was my second project learning HTML and CSS with Teacher Guanabara.
